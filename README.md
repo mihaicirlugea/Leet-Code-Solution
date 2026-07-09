@@ -1,2 +1,15 @@
-# Leet-Code-Solution
-My solutions to LeetCode algorithmic problems, written in Java. Organized systematically by difficulty to track my progress and engineering logic.
+# LeetCode Practice Vault
+
+My centralized repository for tracking data structures, algorithms, and problem-solving patterns.
+
+## 📊 Progress Tracker
+| Difficulty | Solved | Target |
+|------------|--------|--------|
+| 🟢 Easy    | 1      | —      |
+| 🟡 Medium  | 0      | —      |
+| 🔴 Hard    | 0      | —      |
+
+## 🛠️ Core Patterns Covered
+
+---
+*Note: This repository serves as a personal archive for code fluency and interview preparation.*
