@@ -5,7 +5,7 @@ My centralized repository for tracking data structures, algorithms, and problem-
 ## 📊 Progress Tracker
 | Difficulty | Solved | Target |
 |------------|--------|--------|
-| 🟢 Easy    | 4      | 100    |
+| 🟢 Easy    | 5      | 100    |
 | 🟡 Medium  | 0      | 50     |
 | 🔴 Hard    | 0      | 25     |
 
